@@ -1,1 +1,5 @@
-# Html-css
+- 👋 Hi, I’m @Omarali1020
+- 👀 I’m interested in html,css,python
+- 🌱 I’m currently learning css
+- 💞️ I’m looking to collaborate on some basic html work
+- 📫 How to reach me on my email oa2236953@gmail.com
