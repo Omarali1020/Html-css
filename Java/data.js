@@ -1,4 +1,4 @@
-var number1 =20
-var number2 =30
+var number1 =2
+var number2 =3
 var result =number1+number2
 console.log(result)
